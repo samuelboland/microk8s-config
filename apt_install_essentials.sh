@@ -9,7 +9,7 @@
 sudo apt install zsh
 
 # Install antigen
-curl -L git.io/antigen > antigen.zsh
+curl -L git.io/antigen > ~/antigen.zsh
 cp .zshrc ~/.zshrc
 
 # Change shell to zsh
